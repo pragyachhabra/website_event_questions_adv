@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+		
+		<menuitem name="Answers" 
+			id="menu_report_event_answers"  
+			parent="event.menu_reporting_events" 
+			sequence="5" 
+			action="action_event_registration_question_answers"/>
+
+	</data>
+</odoo>
